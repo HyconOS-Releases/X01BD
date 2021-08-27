@@ -3,5 +3,5 @@
 ## August changelog (27-08-2021)
 v4.5 Elegant
 
--Initial Build 
--Kernel upsteramed to 4.4.279
+* Initial Build 
+* Kernel upsteramed to 4.4.279
